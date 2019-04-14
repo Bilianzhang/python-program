@@ -12,3 +12,5 @@ for line in fhand:
 #
 wordslist.sort()
 print(wordslist)
+
+
